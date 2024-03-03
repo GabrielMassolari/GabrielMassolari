@@ -1,5 +1,5 @@
 ## Olá, Seja bem-vindo! Eu sou o Gabriel Guimarães 👋
-- 💬 Estudante de Sistemas de Informação, em busca de conhecimento e evolução.
+- 💬 Bacharel em Sistemas de Informação, em busca de conhecimento e evolução.
 
 <div align="center">
   <a href="https://github.com/GabrielMassolari">
